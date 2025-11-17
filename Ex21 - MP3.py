@@ -6,4 +6,5 @@ pygame.init()
 pygame.mixer.music.load('Amy winehouse valerie[Mp3xd.tv].mp3')
 pygame.mixer.music.play()
 input()
+
 pygame.event.wait()
