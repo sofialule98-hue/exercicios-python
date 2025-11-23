@@ -15,14 +15,14 @@ Este é meu laboratório prático para dominar os fundamentos da lógica de prog
 ###  **Concluído:**
 - **Estruturas Sequenciais** - Fluxo linear de execução
 
-### 🔄 **Em Andamento:**
+### **Em Andamento:**
 - **Estruturas Condicionais** - Tomada de decisão (`if/elif/else`)
 - **Estruturas Repetitivas** - Loops e iterações (`for/while`)
 - **Manipulação de Strings** - Processamento de texto
 - **Listas e Dicionários** - Estruturas de dados básicas
 - **Funções** - Organização e reuso de código
 
-### 🎯 **Próximos Passos:**
+### **Próximos Passos:**
 - **Tratamento de Erros** - `try/except`
 - **Leitura/Escrita de Arquivos**
 - **Algoritmos Básicos** - Busca e ordenação
