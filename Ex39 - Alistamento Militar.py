@@ -6,7 +6,7 @@
 from datetime import date
 
 nascimento = int(input("Digite seu ano de nascimento: "))
-idade = date.today().year - nascimento
+idade = date.today().year - nascimento # cálculo necessário para descobrir a idade atual do usuário
 
 if idade == 18:
     print(f"Você tem {idade} anos. Se aliste ao serviço militar imediatamente!")
@@ -22,3 +22,4 @@ elif idade <= 45:
     print(f"Seu alistamento foi em {ano}.")
 else:
     print(f"Você tem {idade} anos. O prazo para se alistar já passou.")
+
