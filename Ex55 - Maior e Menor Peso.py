@@ -8,8 +8,9 @@ for i in range(1,6):
         maior = peso
         menor = peso
     else:
-        if peso > maior:
+        if peso > maior: # verifica qual o maior peso
             maior = peso
-        if peso < menor:
+        if peso < menor: # verifica qual o menor peso
             menor = peso
 print(f"A pessoa com maior peso tem {maior:.1f}Kg e a pessoa com menor peso tem {menor:.1f}Kg.")
+
