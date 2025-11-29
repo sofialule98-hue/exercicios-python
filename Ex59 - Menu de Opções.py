@@ -10,7 +10,7 @@ from time import sleep
 n1 = int(input("Digite o 1º valor: "))
 n2 = int(input("Digite o 2º valor: "))
 
-while True:
+while True: # o valor booleano True fará com que o programa funcione infinitamente até que o usuário selecione a opção 5 - sair do programa
     sleep(0.55)
     menu = int(input("MENU DE OPÇÕES: \n"
                      "[ 1 ] Somar \n"
@@ -38,9 +38,10 @@ while True:
         n2 = int(input("Digite o 2º valor? "))
     elif menu == 5:
         print("Obrigado por usar este programa!")
-        break
+        break # sai do loop imediatamente e exibe a mensagem de encerramento do programa
     else:
         print("Opção inválida! Tente novamente.")
-        sleep(1)
+        sleep(1) # espera 1 segundo para continuar o loop
 print()
 print("Programa encerrado.")
+
