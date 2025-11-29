@@ -9,8 +9,9 @@ primeiro = int(input("Digite o primeiro termo: "))
 razao = int(input("Digite a razão: "))
 termo = primeiro
 cont = 1
-while cont <= 10:
-     print(f"{termo} -> ", end='')
+while cont <= 10: # enquanto o contador for menor ou igual a 10 será feito a soma do termo com a razão para determinar a PA
+     print(f"{termo} -> ", end='') # o resultado das 10 somas irá aparecer na tela separadas por uma seta
      termo += razao
      cont += 1
+
 print("FIM")
