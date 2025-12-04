@@ -10,4 +10,5 @@ while True:
     else:
         cont += 1
         soma += numero
+
 print(f"Foram lidos {cont} números e a soma entre eles é igual a {soma}.")
