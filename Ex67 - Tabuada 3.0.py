@@ -13,4 +13,5 @@ while True:
     for i in range(1, 11):
         print(f"{i} x {numero} = {i * numero}")
     print('-' * 13)
+
 print("Fim do programa.")
