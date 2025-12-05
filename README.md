@@ -11,7 +11,9 @@ Olá! Sou a Sofia, estudante autodidata de programação. Este repositório docu
 **Objetivo Principal:** Construir uma base sólida em pensamento computacional que me permita aprender qualquer linguagem ou framework no futuro.
 
 🧠 MENTALIDADE: Aprendizado em Camadas (como resolver um cubo mágico)
+
 🎯 OBJETIVO: Dominar fundamentos antes de ferramentas avançadas
+
 🚀 ESTRATÉGIA: Compreensão profunda > Memorização superficial
 
 📚 Filosofia de Aprendizado
