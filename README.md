@@ -10,14 +10,18 @@ Olá! Sou a Sofia, estudante autodidata de programação. Este repositório docu
 
 **Objetivo Principal:** Construir uma base sólida em pensamento computacional que me permita aprender qualquer linguagem ou framework no futuro.
 
+
 🧠 MENTALIDADE: Aprendizado em Camadas (como resolver um cubo mágico)
 
 🎯 OBJETIVO: Dominar fundamentos antes de ferramentas avançadas
 
 🚀 ESTRATÉGIA: Compreensão profunda > Memorização superficial
 
+
 📚 Filosofia de Aprendizado
+
 Por que Aprendo em Camadas?
+
 Assim como resolvo um cubo mágico camada por camada (para poder corrigir erros no meio do processo), aprendo programação:
 
 - Fundamentos sólidos antes de abstrações complexas
@@ -25,6 +29,7 @@ Assim como resolvo um cubo mágico camada por camada (para poder corrigir erros 
 - Capacidade de debuggar por entender o "porquê" de cada linha
 
 - Código limpo usando ferramentas apropriadas para cada problema
+
 
 Meu Método de Estudo:
 
@@ -37,6 +42,7 @@ Meu Método de Estudo:
 4. Refaço após 24h (consolidação na memória)
 
 5. Conecto com padrões anteriores (aprendizado por associação)
+
 
 ## Estrutura do Conhecimento
 
@@ -58,7 +64,8 @@ Meu Método de Estudo:
 - **APIs básicas** e integração com IA
 - **Projetos integradores reais**
 
-🛠️ Tecnologias & Ferramentas
+
+🛠️ **Tecnologias & Ferramentas**
 
 **Dominando Atualmente:**
 
