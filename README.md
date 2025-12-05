@@ -87,3 +87,5 @@ Meu Método de Estudo:
 - **APIs de LLMs** (após dominar requisições HTTP)
 
 - **FastAPI** (após dominar funções e POO)
+
+*Não busco ser especialista em uma ferramenta, mas especialista em aprender ferramentas para resolver problemas.*
