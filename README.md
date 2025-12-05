@@ -18,9 +18,10 @@ Olá! Sou a Sofia, estudante autodidata de programação. Este repositório docu
 🚀 ESTRATÉGIA: Compreensão profunda > Memorização superficial
 
 
-📚 Filosofia de Aprendizado
+📚 **Filosofia de Aprendizado**
 
-Por que Aprendo em Camadas?
+
+**Por que Aprendo em Camadas?**
 
 Assim como resolvo um cubo mágico camada por camada (para poder corrigir erros no meio do processo), aprendo programação:
 
@@ -66,6 +67,7 @@ Meu Método de Estudo:
 
 
 🛠️ **Tecnologias & Ferramentas**
+
 
 **Dominando Atualmente:**
 
