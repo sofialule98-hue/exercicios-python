@@ -59,7 +59,9 @@ Meu Método de Estudo:
 - **Projetos integradores reais**
 
 🛠️ Tecnologias & Ferramentas
+
 **Dominando Atualmente:**
+
 - **Python Puro** (sem bibliotecas avançadas)
 
 - **SQL Básico** (SELECT, JOINs, agregações)
@@ -69,6 +71,7 @@ Meu Método de Estudo:
 - **Lógica de Programação** (algoritmos puros)
 
 **Próximas na Fila:**
+
 - **Pandas** (após dominar listas/dicionários)
 
 - **APIs de LLMs** (após dominar requisições HTTP)
