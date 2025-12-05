@@ -6,13 +6,13 @@ Exercícios de Python para prática e desenvolvimento de novas habilidades.
 
 ## Sobre Este Repositório
 
-🧠 MENTALIDADE: Aprendizado em Camadas (como resolver um cubo mágico)
-🎯 OBJETIVO: Dominar fundamentos antes de ferramentas avançadas
-🚀 ESTRATÉGIA: Compreensão profunda > Memorização superficial
-
 Olá! Sou a Sofia, estudante autodidata de programação. Este repositório documenta minha jornada de aprendizado estruturado em Python, onde priorizo entender profundamente cada conceito antes de avançar para o próximo.
 
 **Objetivo Principal:** Construir uma base sólida em pensamento computacional que me permita aprender qualquer linguagem ou framework no futuro.
+
+🧠 MENTALIDADE: Aprendizado em Camadas (como resolver um cubo mágico)
+🎯 OBJETIVO: Dominar fundamentos antes de ferramentas avançadas
+🚀 ESTRATÉGIA: Compreensão profunda > Memorização superficial
 
 📚 Filosofia de Aprendizado
 Por que Aprendo em Camadas?
