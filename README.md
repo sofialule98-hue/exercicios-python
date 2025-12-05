@@ -60,8 +60,9 @@ Meu Método de Estudo:
 ### **Próximos Passos:**
 - **Tratamento de Erros** - `try/except`
 - **Leitura/Escrita de Arquivos**
-- **Algoritmos Básicos** - Busca e ordenação
 - **Manipulação de arquivos** (JSON, CSV)
+- **Funções avançadas** (parâmetros, escopo, decoradores)
+- **Algoritmos Básicos** - Busca e ordenação
 - **APIs básicas** e integração com IA
 - **Projetos integradores reais**
 
