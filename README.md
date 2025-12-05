@@ -2,7 +2,7 @@
 Exercícios de Python para prática e desenvolvimento de novas habilidades.
 
 **Repositório de Sofia Lule**  
-*Estudante de ADS | Aspirante a Profissional de IA*
+*Estudante de ADS | Aspirante a Desenvolvedora*
 
 ## Sobre Este Repositório
 
