@@ -67,7 +67,7 @@ Meu Método de Estudo:
 - **Projetos integradores reais**
 
 
-🛠️ **Tecnologias & Ferramentas**
+🛠️ ## **Tecnologias & Ferramentas**
 
 
 **Dominando Atualmente:**
