@@ -76,7 +76,7 @@ Meu Método de Estudo:
 
 - **SQL Básico** (SELECT, JOINs, agregações)
 
-- **Git/GitHub** (controle de versão)
+- **Git/GitHub** - Versionamento integrado ao PyCharm para organização de portfólio com 70+ exercícios categorizados (controle de versão)
 
 - **Lógica de Programação** (algoritmos puros)
 
