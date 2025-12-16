@@ -27,7 +27,7 @@ for i in lista:
 # Se tiver 5 na lista
 if 5 in lista:
     print('\nO valor 5 FOI digitado! Está na posição: ', end='')
-    posicoes = [] #lista para identificar a posição do número 5
+    posicoes = [] # Lista para identificar a posição do número 5
     for i, numero in enumerate(lista): # enumerate() retorna pares (índice, valor) para cada elemento
         if numero == 5:
             posicoes.append(i + 1) # Adiciona a posição (índice + 1 porque listas começam em 0)
