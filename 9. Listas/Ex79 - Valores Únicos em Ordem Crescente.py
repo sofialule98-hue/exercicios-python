@@ -14,7 +14,7 @@ while True:
         resp = input('Por favor, digite S para sim ou N para não. Deseja continuar [S/N]? ').strip().upper()
     if resp == 'N':
         break
-lista.sort()
+lista.sort() # o comando sort ordena os valores dentro da lista
 print(f'Os valores digitados foram: ', end='')
 for i in lista:
     print(f'{i}', end=' ')
